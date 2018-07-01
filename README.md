@@ -1,6 +1,8 @@
 Console Style & Color Reference
-=========
+---
 A style and quick color reference for Console.
+
+Acknowledgements
 ---
 Based on the style guide template featured on Cody House.
 
